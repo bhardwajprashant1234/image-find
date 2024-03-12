@@ -17,3 +17,4 @@ This web application captures an image feed from the user's webcam and performs 
 - Bootstrap
 - TensorFlow.js
 
+Live Link:-  https://imagedetection-bhardwaj.vercel.app/
