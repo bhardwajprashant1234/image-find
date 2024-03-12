@@ -10,17 +10,10 @@ This web application captures an image feed from the user's webcam and performs 
 - Handles multiple faces in a single image.
 - Responsive design for desktop and mobile devices.
 
-## Coming Soon
-- Ability to upload images from device for facial recognition.
-- Real-time emotion recognition for detected faces.
 
 ## Tech Stack
 - Angular
 - TypeScript
 - Bootstrap
 - TensorFlow.js
-- Media Pipe
 
-## Start App:
-npm I
-ng serve
